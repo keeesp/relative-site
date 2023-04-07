@@ -1,0 +1,97 @@
+.header{
+
+    width: 100%;
+}
+.services{
+
+    width: 100%;
+}
+
+.service{
+    width: 23.8%;
+}
+.proj{
+    width: 32.5%;
+}
+
+.container{
+    max-width: 1200px;
+}
+
+
+ @media only screen and (max-width:1200px){
+
+    .service{
+        width: 45%;
+    }
+    .proj{
+        width: 90%;
+    }
+}
+@media only screen and (max-width:600px){
+
+    .service{
+        width: 90%;
+    }
+    .proj{
+        width: 90%;
+    }
+}
+
+
+/* @media only screen and (max-width:850px){
+
+    .header{
+        width: 600px;
+    }
+    .service{
+        width: 130px;
+    }
+    .proj{
+        width: 180px;
+    }
+}
+@media only screen and (max-width:630px){
+
+    .header{
+        width: 400px;
+    }
+    .service{
+        width: 100px;
+    }
+    .proj{
+        width: 150px;
+    }
+    h2{
+        line-height:800%;
+        font-size:150%;
+    }
+}
+@media only screen and (max-width:515px){
+
+    .header{
+        width: 300px;
+    }
+    .service{
+        width: 80px;
+    }
+    .proj{
+        width: 120px;
+    }
+    h2{
+        line-height:1200%;
+        font-size:100%;
+    }
+}
+@media only screen and (max-width:425px){
+
+    .header{
+        width: 250px;
+    }
+    .service{
+        width: 60px;
+    }
+    .proj{
+        width: 80px;
+    }
+} */ 
